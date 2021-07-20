@@ -7,6 +7,7 @@ Boids is an artificial life program which simulates the flocking behaciour of bi
 ***
 * openFrameworks
 * make or Xcode
+
 under openFrameworks 0.11.2 is tested
 
 ## Usage
