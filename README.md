@@ -1,5 +1,4 @@
-# Boids
-***
+# Boids***
 Boids is an artificial life program which simulates the flocking behaciour of birds.
 ![スクリーンショット 2021-07-20 21 06 42](https://user-images.githubusercontent.com/87483306/126321004-c6a411a4-6bc2-4667-b6ce-1cab2465ee65.png)
 
