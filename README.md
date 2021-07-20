@@ -17,7 +17,8 @@ then,
 make
 make RunRelease
 ```
-or put this repo where root of your openFrameworks be "../../.." relative to this repos **xcodeproj**.<br>
-ex.) "($YOUR OF ROOT) / apps / myApps/ <this repo> / ~.xcodeproj" is valid.
+or <br>
+put this repo where root of your openFrameworks be "../../.." relative to this repos **xcodeproj**.<br>
+ex.) "($YOUR OF ROOT) / apps / myApps/ <this repo> / ~.xcodeproj" is valid.<br>
 then, run(⌘ + r)
 
