@@ -15,7 +15,8 @@ Please open configure.make and chage **OF_ROOT** path at Line.11.
 then, 
 ```bash
 make
-make RunRelease```
+make RunRelease
+```
 
 
 **Makefileの場合**<br>
